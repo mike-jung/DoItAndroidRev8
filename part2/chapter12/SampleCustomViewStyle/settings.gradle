@@ -1,0 +1,2 @@
+rootProject.name = "SampleCustomViewStyle"
+include ':app'

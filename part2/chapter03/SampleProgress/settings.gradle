@@ -1,0 +1,2 @@
+rootProject.name = "SampleProgress"
+include ':app'

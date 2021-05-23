@@ -1,0 +1,2 @@
+rootProject.name = "SampleEvent"
+include ':app'
